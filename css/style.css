@@ -584,7 +584,7 @@ pointer-events: none;
 }
 
 .mob {
-    display: none;
+    display: none !important;
 }
 
 body.no-scroll,
