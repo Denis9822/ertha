@@ -1283,6 +1283,7 @@ footer span {
     top: 0;
     z-index: 11111;
     display: none;
+    background-color: #000;
 }
 
 .player_video_close {
