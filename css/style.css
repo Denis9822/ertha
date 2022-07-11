@@ -583,6 +583,10 @@ pointer-events: none;
     margin-left: 4px;
 }
 
+.mob {
+    display: none;
+}
+
 body.no-scroll,
 html.no-scroll {
     overflow: hidden;
@@ -1602,7 +1606,7 @@ body::-webkit-scrollbar-thumb {
         margin-bottom: 20px;
     }
     .investors {
-        padding-top: 490px;
+        padding-top: 400px;
     }
     .investors .top_border span {
         font-size: 40px;
@@ -1627,5 +1631,39 @@ body::-webkit-scrollbar-thumb {
     }
     .ownyou {
         padding-top: 150px;
+    }
+    .pc {
+        display: none;
+    }
+    .mob {
+        display: flex;
+    }
+    .header_lang {
+        top: 0;
+    }
+    .language--wrap {
+        margin-left: 0;
+    }
+    .doctrine_items_wrap {
+        justify-content: center;
+    }
+    .doctrine_item span {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .doctrine_item p {
+        text-align: center;
+    }
+    .nft_land_main_text span {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .news_wrap_item {
+        text-align: center;
+    }
+    .tabs-content .tab-text {
+        text-align: center;
     }
 }
