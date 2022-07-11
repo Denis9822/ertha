@@ -1419,7 +1419,7 @@ body::-webkit-scrollbar-thumb {
     }
     .animated_plane {
         width: 100%;
-        top: 210px;
+        top: 160px;
     }
     .header_lang {
         margin-left: 0;
@@ -1432,6 +1432,7 @@ body::-webkit-scrollbar-thumb {
     }
     .main_left {
         width: 100%;
+        margin-top: 215px;
     }
     .maind {
         flex-direction: column;
