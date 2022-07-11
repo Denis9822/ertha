@@ -1636,7 +1636,7 @@ body::-webkit-scrollbar-thumb {
         display: none;
     }
     .mob {
-        display: flex;
+        display: flex !important;
     }
     .header_lang {
         top: 0;
