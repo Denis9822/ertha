@@ -1667,4 +1667,20 @@ body::-webkit-scrollbar-thumb {
     .tabs-content .tab-text {
         text-align: center;
     }
+    .buy_ren_img {
+        display: none;
+    }
+    .buy_ren_img2 {
+        display: none;
+    }
+    .buy_rent_wrap .animation-container {
+        top: 580px;
+    }
+    .buy_rent .top_border span {
+        margin-bottom: 300px;
+        margin-top: 0;
+    }
+    .buy_rent {
+        padding-top: 100px;
+    }
 }
